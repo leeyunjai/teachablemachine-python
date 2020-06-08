@@ -1,5 +1,6 @@
 # Teachable machine(Image project) client
   + Client code(opencv) for teachable machine's Image project
+  + Tested Raspberrypi 3B+
   + https://teachablemachine.withgoogle.com/
 
 # Execute
