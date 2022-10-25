@@ -1,0 +1,4 @@
+0 dog
+1 cat
+2 horse
+3 cow
