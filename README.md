@@ -1,4 +1,4 @@
-# Teachable machine(Image project) client
+# Teachable machine(Image project) using keras / tflite model
   + Client code(opencv) for teachable machine's Image project
   + Tested tensorflow lite(quant / unquant) and keras
   + Tested Raspberry OS / Ubuntu
